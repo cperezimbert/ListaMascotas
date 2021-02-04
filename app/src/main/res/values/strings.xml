@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaMascotas</string>
+    <string name="nombre_mascota1">Max</string>
+    <string name="raiting1">5</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAcercade">Acerca de</string>
+    <string name="mFavoritos">Favoritos</string>
+</resources>

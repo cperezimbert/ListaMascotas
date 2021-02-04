@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mContacto"
+        android:title="@string/mContacto"
+        android:orderInCategory="1">
+
+    </item>
+    <item
+        android:id="@+id/mAcercade"
+        android:title="@string/mAcercade"
+        android:orderInCategory="2"
+        >
+
+    </item>
+    <item
+        android:id="@+id/mFavoritos"
+        android:title="@string/mFavoritos"
+        android:orderInCategory="3"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_starb"
+        >
+    </item>
+
+
+</menu>
